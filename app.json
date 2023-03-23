@@ -5,6 +5,17 @@
       "bundler": "metro"
     },
     "name": "jobby",
-    "slug": "jobby"
+    "slug": "jobby",
+    "extra": {
+      "eas": {
+        "projectId": "7373b848-7df7-4b91-b364-7163e937bcca"
+      }
+    },
+    "android": {
+      "package": "com.pythonop.jobby"
+    },
+    "ios": {
+      "bundleIdentifier": "com.pythonop.jobby"
+    }
   }
 }
