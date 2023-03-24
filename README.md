@@ -22,3 +22,5 @@ https://expo.dev/@pythonop/jobby?serviceType=classic&distribution=expo-go
 ```eas login ```
 ``` eas build:configure ```
 ``` eas build ```
+
+https://docs.expo.dev/build-reference/apk/
